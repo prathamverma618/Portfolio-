@@ -36,3 +36,9 @@ const observer = new IntersectionObserver(entries => {
     });
 }, { threshold: 0.1 });
 reveals.forEach(el => observer.observe(el));
+
+
+function addNewFeatrue(){
+    console.log("New Featrue");
+    
+}
