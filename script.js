@@ -42,3 +42,8 @@ function addNewFeatrue(){
     console.log("New Featrue");
     
 }
+
+function addNewFeatrueB(){
+    console.log("New Featrue B");
+    
+}
